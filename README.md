@@ -23,9 +23,28 @@ Para "A0511AB398765UJ1N230200" Los campos son:
 23 de tipo Numérico de largo 2 y valor 00
 <br>
 
-<h1>Instrucciones para ejecutar la Función TLV en Travis CI</h1>
-Hacer click en el siguiente link para ver el resultado de la ejecución de la Función TLV   https://travis-ci.org/runningsiete/mi_repositorio/jobs/653483437
+<h1>Instrucciones para compilar y ejecutar la Función TLV en Travis CI</h1>
+Hacer click en el siguiente link para ver el resultado de la ejecución de la Función TLV
+<br>
+https://travis-ci.org/runningsiete/mi_repositorio/jobs/653483437
 <br>
 En travis-ci: en el jobs #5.1 debería verse el siguiente resultado de la Función TLV: 
-<br>
+<br><br>
 <img src="https://github.com/runningsiete/mi_repositorio/blob/master/Ejemplo_Resultado_del_Test.png" alt="Test Ejemplo">
+
+
+<h1>Instrucciones para cambiar la entrada de la Función TLV</h1>
+<br>
+Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal como se ve en la siguiente imagen
+<br>
+<img src="https://github.com/runningsiete/mi_repositorio/blob/master/Modificar_la_Entrada.png" alt="Cambiar la entrada">
+
+<h1>Instrucciones para ejecutar compilar y ejecutar la Función TLV en su Computador</h1>
+<b>Paso 1:</b> debe tener instalado su ambiente go en su computador. (Para bajar el go ir a https://golang.org/dl/)
+<br>
+<b>Paso 2:</b> ir al directorio de su proyecto principal usando el Visual Studio Code (En windows podría ser C:\go\src\proyecto_TLV)
+<br>
+<b>Paso 3:</b> Ejecutar el comando siguiente comando
+<br>
+    go test -v ./...
+
