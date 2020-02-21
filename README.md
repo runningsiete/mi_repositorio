@@ -23,7 +23,7 @@ Para "A0511AB398765UJ1N230200" Los campos son:
 23 de tipo Numérico de largo 2 y valor 00
 <br>
 
-<h1>Instrucciones para ejecutar la Función TLV</h1>
+<h1>Instrucciones para ejecutar la Función TLV en Travis CI</h1>
 Hacer click en el siguiente link para ver el resultado de la ejecución de la Función TLV   https://travis-ci.org/runningsiete/mi_repositorio/jobs/653483437
 <br>
 En travis-ci: en el jobs #5.1 debería verse el siguiente resultado de la Función TLV: 
