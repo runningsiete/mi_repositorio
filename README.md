@@ -1,5 +1,5 @@
 <h1>Función TLV</h1>
-Esta funcion está implementada en GO, recibe una cadena de caracteres la cual contiene multiples campos en el formato TLV y genera un map[string]string con los campos TLV encontrados en la cadena.
+Es una funcion implementada con el lenguaje de programación GO: recibe una cadena de caracteres la cual contiene multiples campos en el formato TLV y genera un map[string]string con los campos TLV encontrados en la cadena. El código fuente está en el archivo TLV.go y en el archivo TLV_test.go está el Test de esta función. 
 
 <br>
 <h2>Formato de los campos TLV</h2>
@@ -21,4 +21,8 @@ Para "A0511AB398765UJ1N230200" Los campos son:
 
 05 de tipo Alfanumérico de largo 11 y valor AB398765UJ1
 23 de tipo Numérico de largo 2 y valor 00
+<br>
+
+<h1>Instrucciones para ejecutar la Función TLV</h1>
+Hacer click en el siguiente link para ver el resultado de la ejecución de la Función TLV   https://travis-ci.org/runningsiete/mi_repositorio/jobs/653483437
 
