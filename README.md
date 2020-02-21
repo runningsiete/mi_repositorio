@@ -1,12 +1,19 @@
 <h1>Función TLV</h1>
 Esta funcion está implementada en GO, recibe una cadena de caracteres la cual contiene multiples campos en el formato TLV y genera un map[string]string con los campos TLV encontrados en la cadena.
 
-<b>Formato de los campos TLV</b>
+<br>
+<h2>Formato de los campos TLV</h2>
 Cada campo TLV esta compuesto por 3 partes:
+<br>
 
-Tipo: El tipo tiene un largo de 3 caracteres donde el primer caracter indica el tipo de dato (A: Alfanumérico y N: Numérico) y dos caracteres para indicar el numero de campo Ejemplo: "01" o "15".
-Largo: 2 caracteres que indican el largo del valor, este campo es importante puesto que indica cuantos caracteres leer a continuación.
-Valor: Este es el valor del campo, el cual corresponde al valor del campo, su largo esta determinado por la porción Largo.
+<b>Tipo:</b> El tipo tiene un largo de 3 caracteres donde el primer caracter indica el tipo de dato (A: Alfanumérico y N: Numérico) y dos caracteres para indicar el numero de campo Ejemplo: "01" o "15".
+<br>
+
+<b>Largo:</b> 2 caracteres que indican el largo del valor, este campo es importante puesto que indica cuantos caracteres leer a continuación.
+<br>
+
+<b>Valor:</b> Este es el valor del campo, el cual corresponde al valor del campo, su largo esta determinado por la porción Largo.
+<br>
 
 Ejemplo:
 
