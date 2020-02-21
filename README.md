@@ -32,13 +32,6 @@ En travis-ci: en el jobs #5.1 debería verse el siguiente resultado de la Funci�
 <br><br>
 <img src="https://github.com/runningsiete/mi_repositorio/blob/master/Ejemplo_Resultado_del_Test.png" alt="Test Ejemplo">
 
-
-<h1>Instrucciones para cambiar la entrada de la Función TLV</h1>
-<br>
-Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal como se ve en la siguiente imagen
-<br>
-<img src="https://github.com/runningsiete/mi_repositorio/blob/master/Modificar_la_Entrada.png" alt="Cambiar la entrada">
-
 <h1>Instrucciones para compilar y ejecutar la Función TLV en su Computador</h1>
 <b>Paso 1:</b> debe tener instalado su ambiente go en su computador. (Para bajar el go ir a https://golang.org/dl/)
 <br>
@@ -54,5 +47,12 @@ Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal c
 <br>
 <b>Paso 6:</b> El resultado será algo parecido a lo que se ve en la imagen: <b>Ejemplo_Resultado_del_Test.png</b>
 <br>
+
+<h1>Instrucciones para cambiar la entrada de la Función TLV</h1>
+<br>
+Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal como se ve en la siguiente imagen
+<br>
+<img src="https://github.com/runningsiete/mi_repositorio/blob/master/Modificar_la_Entrada.png" alt="Cambiar la entrada">
+
 <h3>Mi nombre es Miguel Corona Elgueta, Ingeniero Informático e Ingeniero Civil Industrial</h3>
 <br>
