@@ -39,14 +39,20 @@ Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal c
 <br>
 <img src="https://github.com/runningsiete/mi_repositorio/blob/master/Modificar_la_Entrada.png" alt="Cambiar la entrada">
 
-<h1>Instrucciones para ejecutar compilar y ejecutar la Función TLV en su Computador</h1>
+h1>Instrucciones para compilar y ejecutar la Función TLV en su Computador</h1>
 <b>Paso 1:</b> debe tener instalado su ambiente go en su computador. (Para bajar el go ir a https://golang.org/dl/)
 <br>
 <b>Paso 2:</b> ir al directorio de su proyecto principal usando el Visual Studio Code (En windows podría ser C:\go\src\proyecto_TLV)
 <br>
-<b>Paso 3:</b> Ejecutar el siguiente comando:   go test -v ./...
+<b>Paso 3:</b>: Clonar el repositorio con el siguiente comando: 
 <br>
-<b>Paso 4:</b> El resultado será algo parecido a lo que se ve en la imagen: <b>Ejemplo_Resultado_del_Test.png</b>
+        git clone https://github.com/runningsiete/mi_repositorio.git
+
+<b>Paso 4:</b> Ir al directorio mi_repositorio  
+<br>
+<b>Paso 5:</b> Ejecutar el siguiente comando:   go test -v ./...
+<br>
+<b>Paso 6:</b> El resultado será algo parecido a lo que se ve en la imagen: <b>Ejemplo_Resultado_del_Test.png</b>
 <br>
 <h3>Mi nombre es Miguel Corona Elgueta, Ingeniero Informático e Ingeniero Civil Industrial</h3>
 <br>
