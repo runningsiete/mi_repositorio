@@ -39,7 +39,7 @@ Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal c
 <br>
 <img src="https://github.com/runningsiete/mi_repositorio/blob/master/Modificar_la_Entrada.png" alt="Cambiar la entrada">
 
-h1>Instrucciones para compilar y ejecutar la Función TLV en su Computador</h1>
+<h1>Instrucciones para compilar y ejecutar la Función TLV en su Computador</h1>
 <b>Paso 1:</b> debe tener instalado su ambiente go en su computador. (Para bajar el go ir a https://golang.org/dl/)
 <br>
 <b>Paso 2:</b> ir al directorio de su proyecto principal usando el Visual Studio Code (En windows podría ser C:\go\src\proyecto_TLV)
