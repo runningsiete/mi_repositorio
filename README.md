@@ -49,5 +49,6 @@ Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal c
     go test -v ./...
 <b>Paso 4:</b> El resultado será algo parecido a lo que se ve en la imagen: <b>Ejemplo_Resultado_del_Test.png</b>
 <br>
-Mi nombre es Miguel Corona Elgueta, Ingeniero Informático e Ingeniero Civil Industrial
+<br>
+<h3>Mi nombre es Miguel Corona Elgueta, Ingeniero Informático e Ingeniero Civil Industrial</h3>
 <br>
