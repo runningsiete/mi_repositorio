@@ -48,7 +48,7 @@ Modificar el valor de la variable entrada en el archivo <b>TLV_test.go</b> tal c
 <br>
         git clone https://github.com/runningsiete/mi_repositorio.git
 
-<b>Paso 4:</b> Ir al directorio mi_repositorio  
+<b>Paso 4:</b> Ir al directorio mi_repositorio
 <br>
 <b>Paso 5:</b> Ejecutar el siguiente comando:   go test -v ./...
 <br>
